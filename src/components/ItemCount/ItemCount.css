@@ -1,0 +1,25 @@
+.container {
+    margin-top: 50px;
+}
+
+.titulo-prod {
+    display: flex;
+    justify-content: center;
+}
+
+.ctn-botones {
+    display: flex;
+    justify-content: center;
+}
+
+.btn-resta {
+    margin-right: 10px;
+    border: 2px solid black;
+    border-radius: 3px;
+}
+
+.btn-suma {
+    margin-left: 10px;
+    border: 2px solid black;
+    border-radius: 3px;
+}
